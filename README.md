@@ -7,10 +7,10 @@
     - Python v3.11
 
 ##  Cara Kompilasi 
-    Jalankan perintah berikut pada terminal di folder `src`.
-    '''
-    python main.py
-    '''
+    Jalankan perintah berikut pada terminal dengan cwd berada di repository.
+    ```
+    python src/main.py
+    ```
 
 ##  Identitas Pembuat
     Ahmad Hasan Albana (13522041)
